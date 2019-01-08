@@ -15,4 +15,9 @@ class C1Test {
     void testM2() {
         assertEquals("C1::m2", new C1().m2());
     }
+
+    @Test
+    void testM3() {
+        assertEquals("C1::m3", new C1().m3());
+    }
 }
