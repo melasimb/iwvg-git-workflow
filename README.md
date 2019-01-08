@@ -9,8 +9,17 @@
 * GitHub
 
 ### Descripción
-Este proyecto pretende ser una plantilla maven para crear un proyecto
-1.- Descomprimir en la carpeta de trabajo
-1.- Editar el pom.xml y cambiarle el nombre del proyecto
-1.- Desde IntelliJ, `Import Project`, marcar `Create Project from external model` y elegir `Maven`
+Este proyecto pretende ser un ejemplo base del funcionamiento del Flujo de Trabajo por Ramificación, con el uso de issues y proyecto Kanban
+
+### Clonar en repositorio en tu equipo mediante consola:
+1. Situarse en una carpeta raíz donde se encuentran los proyectos, mediante la consola:  
+ **>cd %ruta-de-la-carpeta%**
+1. Clonar el repositorio, se visualizará el contenido de la rama por defecto:  
+ **>git clone https://github.com/miw-upm/APAW-pd**
+
+### Importar el proyecto mediante IntelliJ IDEA
+1. **Import Project**, y seleccionar la carpeta del proyecto
+1. Marcar **Create Project from external model**, elegir **Maven**
+1. **Next** … **Finish**
+
 
