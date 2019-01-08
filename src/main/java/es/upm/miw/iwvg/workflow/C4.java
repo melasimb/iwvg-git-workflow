@@ -1,8 +1,9 @@
 package es.upm.miw.iwvg.workflow;
 
-public class C3 {
+public class C4 {
 
     public String m1(){
-        return "C3::m1";
+        return "C4::m1";
     }
+
 }
