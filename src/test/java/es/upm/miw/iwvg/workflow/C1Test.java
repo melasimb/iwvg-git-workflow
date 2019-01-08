@@ -20,4 +20,9 @@ class C1Test {
     void testM3() {
         assertEquals("C1::m3", new C1().m3());
     }
+
+    @Test
+    void testM4() {
+        assertEquals("C1::m4", new C1().m4());
+    }
 }
