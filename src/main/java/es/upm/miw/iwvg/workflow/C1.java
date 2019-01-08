@@ -14,7 +14,6 @@ public class C1 {
         return "C1::m3";
     }
 
-
     public String m4(){
         return "C1::m4";
     }
