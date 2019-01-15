@@ -22,4 +22,7 @@ Este proyecto pretende ser un ejemplo base del funcionamiento del Flujo de Traba
 1. Marcar **Create Project from external model**, elegir **Maven**
 1. **Next** … **Finish**
 
+### Git workflow
+![git-workflow](https://github.com/miw-upm/iwvg-git-workflow/blob/develop/docs/git-workflow.png)
+
 
