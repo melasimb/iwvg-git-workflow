@@ -14,6 +14,7 @@
 Este proyecto pretende ser un ejemplo base del funcionamiento del Flujo de Trabajo por Ramificación, con el uso de issues y proyecto Kanban
 
 ## Video explicativo
+https://youtu.be/CNSZAxEsdaQ
 
 ## Clonar en repositorio en tu equipo mediante consola:
 1. Situarse en una carpeta raíz donde se encuentran los proyectos, mediante la consola:  
