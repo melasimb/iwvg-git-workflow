@@ -3,12 +3,15 @@ jdk:
 - oraclejdk8
 branches:
   only:
-  - master
   - develop
+  - /^release-[0-999].[0-999]$/
+  - master
 notifications:
   email:
     recipients:
-    - architect@gmail.com
+    - j.bernal@upm.es
 script:
-#Test unitario y de integracion en develop
-- mvn verify
+#Test unitario y de integracion en perfil DEV, con cobertura
+- mvn org.jacoco:jacoco-maven-plugin:prepare-agent verify
+#SONAR
+- mvn sonar:sonar -Dsonar.host.url=https://sonarcloud.io -Dsonar.organization=miw-upm-github -Dsonar.login=$SONAR

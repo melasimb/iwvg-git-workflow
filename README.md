@@ -10,6 +10,11 @@
 * GitHub
 * IntelliJ
 
+### Estado del código
+[![Build Status](https://travis-ci.org/miw-upm/iwvg-git-workflow.svg?branch=develop)](https://travis-ci.org/miw-upm/iwvg-git-workflow)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=es.upm.miw%3Aiwvg-git-workflow&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=es.upm.miw%3Aiwvg-git-workflow)
+[![BCH compliance](https://bettercodehub.com/edge/badge/miw-upm/iwvg-git-workflow?branch=master)](https://bettercodehub.com/results/miw-upm/iwvg-git-workflow)
+
 ## Descripción
 Este proyecto pretende ser un ejemplo base del funcionamiento del Flujo de Trabajo por Ramificación, con el uso de issues y proyecto Kanban
 
