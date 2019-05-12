@@ -1,4 +1,4 @@
-package es.upm.miw.iwvg.workflow;
+package es.upm.miw.iwvg.workflow.agile;
 
 public class C1 {
 

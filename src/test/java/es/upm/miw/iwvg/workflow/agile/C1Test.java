@@ -1,4 +1,4 @@
-package es.upm.miw.iwvg.workflow;
+package es.upm.miw.iwvg.workflow.agile;
 
 import org.junit.jupiter.api.Test;
 
