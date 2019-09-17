@@ -7,6 +7,6 @@ public class cc1 {
     }
 
     String ruido(){
-        return "m1";
+        return "oooh";
     }
 }
