@@ -10,7 +10,7 @@
     }
 
     m2(){
-        System.out.println("C21: m2()");
+        System.out.println("C21: m2_errorResuelto()");
     }
 
  }
