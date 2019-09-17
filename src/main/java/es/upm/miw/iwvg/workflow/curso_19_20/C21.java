@@ -6,7 +6,7 @@
     }
 
     m1(){
-        System.out.println("C21: m1()");
+        System.out.println("C21: m1() correct");
     }
 
     m2(){
