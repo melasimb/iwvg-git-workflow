@@ -5,4 +5,8 @@ public class C31 {
     public String m1() {
         return "return C31:m1";
     }
+
+    public String m2() {
+        return "return C31:m2";
+    }
 }
