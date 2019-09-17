@@ -13,4 +13,12 @@
         System.out.println("C21: m2()");
     }
 
+    incrementarId(){
+        id++;
+    }
+
+    int getId(){
+        return this.id;
+    }
+
  }
